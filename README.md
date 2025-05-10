@@ -1,6 +1,6 @@
 # Hive
 
-角色：提供 Hadoop 上的 SQL 查詢能力。
+角色：提供 Hadoop 上的 SQL 查詢功能。
 
 用途：讓使用者能像用 SQL 一樣操作儲存在 HDFS 上的資料。
 
